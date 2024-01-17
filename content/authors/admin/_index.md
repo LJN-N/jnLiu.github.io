@@ -30,18 +30,18 @@ bio: ''
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Machine Learning123
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
   courses:
-    - course: MEng in Computer Technology, 2025
+    - course: MEng in Computer Technology
+      institution: North China University of Technology
+      year: 2025
+    - course: BSc in Computer Science and Technology
       institution: North China University of Technology
       year: 2022
-    - course: BSc in Computer Science and Technology, 2022
-      institution: North China University of Technology
-      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
