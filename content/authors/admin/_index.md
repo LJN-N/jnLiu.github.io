@@ -30,7 +30,7 @@ bio: ''
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Machine Learning
+  - Machine Learning123
 
 # Education to show in About widget
 education:
